@@ -1,0 +1,10 @@
+# Examples: <https://github.com/jmartin82/mmock/tree/master/config>
+description: Default endpoint for the root of the site
+
+request:
+  method: GET
+  path: /
+
+response:
+  statusCode: 200
+  body: Not configured endpoint (mmock)

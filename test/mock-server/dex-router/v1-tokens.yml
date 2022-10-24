@@ -1,0 +1,50 @@
+description: Tokens list
+
+request:
+  method: GET
+  path: /v1/1/tokens
+
+response:
+  statusCode: 200
+  headers:
+    Content-Type: [application/json]
+  body: |
+    {
+      "tokens":[
+        {
+          "chainId":1,
+          "address":"0X111111111117DC0AA78B770FA6A738034120C302",
+          "name":"1inch",
+          "symbol":"1INCH",
+          "decimals":18,
+          "logoURI":"https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
+        },
+        {
+          "chainId":1,
+          "address":"0X7FC66500C84A76AD7E9C93437BFC5AC33E2DDAE9",
+          "name":"Aave",
+          "symbol":"AAVE",
+          "decimals":18,
+          "logoURI":"https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+        },
+        {
+          "chainId": 1,
+          "address": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+          "name": "Dai Stablecoin",
+          "symbol": "DAI",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+          "chainId": 1,
+          "address": "0XEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+          "name": "Ether",
+          "symbol": "ETH",
+          "decimals": 18,
+          "logoURI": null
+        }
+      ]
+    }
+
+control:
+  delay: 110ms

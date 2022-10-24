@@ -1,0 +1,22 @@
+description: Quote
+
+request:
+  method: GET
+  path: /v1/1/quote
+  queryStringParameters:
+    fromTokenAddress: ['*']
+    toTokenAddress: ['*']
+    amount: ['*']
+    slippage: ['*']
+
+response:
+  statusCode: 501
+  headers:
+    Content-Type: [application/json]
+  body: |
+    {
+      "error": "Not Implemented"
+    }
+
+control:
+  delay: 300ms

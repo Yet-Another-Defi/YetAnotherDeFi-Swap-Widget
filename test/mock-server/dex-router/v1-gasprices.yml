@@ -1,0 +1,19 @@
+description: Gas prices
+
+request:
+  method: GET
+  path: /v1/1/gasprices
+
+response:
+  statusCode: 200
+  headers:
+    Content-Type: [application/json]
+  body: |
+    {
+      "low":"52.89",
+      "medium":"53.89",
+      "high":"56.89"
+    }
+
+control:
+  delay: 80ms
