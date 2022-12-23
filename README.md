@@ -1,5 +1,5 @@
 # Yet Another DeFi Widget
-![image](https://user-images.githubusercontent.com/116569800/209337281-28c8601c-aae0-4e02-beb4-0cdc1b3bc584.png)
+
 
 ![image](https://user-images.githubusercontent.com/116569800/209335753-a2e3e147-6b0b-4c97-9331-5bfe6da7e6e3.png)
 
