@@ -44,7 +44,7 @@ title="yad-widget" height="508" width="416" style="border-radius:20px">
 </div>
 
 ```
-In `src=` you can put your set up link from pt. 1.
+In `src=` you can put your customized link from pt. 1.
 
 
 #### Horizontal widget
@@ -56,7 +56,7 @@ title="yad-widget" height="212" width="1180" style="border-radius:20px">
 </div>
 
 ```
-In `src=` you can put your set up link from pt. 1.
+In `src=` you can put your customized link from pt. 1.
 
 
 #### Flexible widget
@@ -70,7 +70,7 @@ title="yad-widget" height="212" width="1180" style="border-radius:20px">
 </div>
 
 ```
-In `src=` you can put your set up link from pt. 1.
+In `src=` you can put your customized link from pt. 1.
 
 For flexible widget you should do two more steps:
 1. Insert script in `html head` section:
