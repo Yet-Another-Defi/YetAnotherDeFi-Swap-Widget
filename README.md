@@ -58,7 +58,7 @@ title="yad-widget" height="212" width="1180" style="border-radius:20px">
 ```
 In `src=` you can put your set up link from pt. 1.
 
-
+\n
 #### Flexible widget
 
 Widget changes automatically depends on width size. If width is lower than 1180, widget is vertical, otherwise horizontal.
@@ -70,6 +70,8 @@ title="yad-widget" height="212" width="1180" style="border-radius:20px">
 </div>
 
 ```
+In `src=` you can put your set up link from pt. 1.
+
 For flexible widget you should do two more steps:
 1. Insert script in `html head` section:
 
