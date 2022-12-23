@@ -34,6 +34,7 @@ feePercentage={feePercentage}
 
 **2. Insert this code, where you want to place widget.**
 
+
 #### Vertical widget
 ```html
 <div id="yad-widget">
@@ -45,6 +46,7 @@ title="yad-widget" height="508" width="416" style="border-radius:20px">
 ```
 In `src=` you can put your set up link from pt. 1.
 
+
 #### Horizontal widget
 ```html
 <div id="yad-widget">
@@ -55,6 +57,8 @@ title="yad-widget" height="212" width="1180" style="border-radius:20px">
 
 ```
 In `src=` you can put your set up link from pt. 1.
+
+
 #### Flexible widget
 
 Widget changes automatically depends on width size. If width is lower than 1180, widget is vertical, otherwise horizontal.
