@@ -73,7 +73,7 @@ isLockToToken={isLockToToken}
 **2. Insert this code, where you want to place widget.**
 
 - Vertical widget
-Width could be in range 360-416 px.
+Width could be in range 280-416 px.
 ```html
 <div id="yad-widget">
 <iframe src="https://widget.yad.finance/1/ETH/DAI" 
