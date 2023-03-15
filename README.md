@@ -12,12 +12,6 @@
 - Swapping assets in a DeFi application for providing liquidity, farming & staking.
 - Extra Revenue by adding your own fees.
 
-## Use cases
-- Converting to the required currency for an NFT purchase or any other in-app usage.
-- Sell your token.
-- Swapping assets in a DeFi application for providing liquidity, farming & staking.
-- Extra Revenue by adding your own fees.
-
 ## Integration
 **1. Configure your widget by URL parametres**
 ```
